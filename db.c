@@ -30,5 +30,5 @@ int main(int argc,
     x = pow(10,(db / 20));
 
 //    printf("%s dB = %.8f\n",argv[1],x);
-    printf("%f dB = %.8f\n",db,x);    
+    printf("%f dB = %.8f double\n",db,x);    
 }
